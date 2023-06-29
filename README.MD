@@ -83,9 +83,9 @@
 
 - `git clean`: Remove arquivos não rastreados do diretório de trabalho.
 
-## Cherry
+## Cherry 
 
-- `git cherry`: Mostra commits que ainda não foram mesclados em outra branch.
+- `git cherry`: Mostra commits que ainda não foram mesclados em outra branch. 
 
 # Comandos de Configuração
 
