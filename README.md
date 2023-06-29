@@ -92,3 +92,4 @@
 - `git config --global user.name "[nome]"`: Define o nome do usuário para os commits.
 - `git config --global user.email "[email]"`: Define o email do usuário para os commits.
 - `git config --global alias.[alias] "[comando]"`: Cria um alias para um comando Git.
+ 
